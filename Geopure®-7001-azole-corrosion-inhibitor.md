@@ -1,4 +1,4 @@
-# Geopure®-7501: Azole Corrosion Inhibitor (Yellow Metal Protection)
+# Geopure®-7001: Azole Corrosion Inhibitor (Yellow Metal Protection)
 
 ## Product Overview
 
@@ -66,7 +66,7 @@ Dose = 3 / (5 × 0.45) = 1.3 mg/L product in makeup
 
 | Property | Value |
 |----------|-------|
-| Product Name | GeoPure® 7501 |
+| Product Name | Geopure® 7001 |
 | Chemical Type | Sodium tolyltriazolate solution |
 | Appearance | Clear dark amber liquid |
 | pH | 11.0-12.5 |
